@@ -1,0 +1,38 @@
+#result ol{
+  width: 700px;
+  border: 1px solid black;
+}
+ol{
+  margin-top: 150px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+li{
+  font-weight: bold;
+}
+.next{
+  text-align: center;
+}
+.next input{
+  font-size: 25px;
+}
+h1{
+  margin-top: 50px;
+  text-align: center;
+}
+#space{
+  margin-left: 200px;
+}
+.align{
+  text-align:center;
+}
+p{
+  margin:50px;
+}
+.definition{
+  border:20px solid orange;
+  width: 1000px;
+  margin:auto;
+}
