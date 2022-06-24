@@ -36,3 +36,12 @@ p{
   width: 1000px;
   margin:auto;
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: #bbb;
+  }
+  a {
+    color: #3ea6ff;
+  }
+}
